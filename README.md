@@ -120,6 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [monzo-python](https://github.com/muyiwaolu/monzo-python) - A python SDK for interacting with the Monzo API
 - [monzo-python](https://github.com/pyepye/monzo-python) - A Python (2.7) wrapper for the Monzo API
 - [pymonzo](https://github.com/pawelad/pymonzo) - An awesome Python library that smartly wraps Monzo public API
+- [monzo-txn-ml](https://github.com/atharvsatpute/monzo-txn-ml) - Production-grade ML toolkit — anomaly detection, spending prediction and category classification for Monzo transaction data.
 
 ##### Ruby
 - [mondo-ruby (official)](https://github.com/mondough/mondo-ruby) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API
